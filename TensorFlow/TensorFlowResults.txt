@@ -1,0 +1,142 @@
+*********************************Test Images Folder*************************************
+Image banana.png
+banana 0.471945
+cucumber, cuke 0.169158
+bell pepper 0.0382707
+zucchini, courgette 0.0366289
+bath towel 0.0172567
+
+Image beagle.png
+Weimaraner 0.231251
+Walker hound, Walker foxhound 0.104161
+beagle 0.0673334
+bluetick 0.0655535
+German short-haired pointer 0.0566369
+
+Image italiangrayhound.png
+Italian greyhound 0.431992
+Mexican hairless 0.332871
+Weimaraner 0.0985017
+Great Dane 0.0404275
+whippet 0.0386671
+
+Image japanesespaniel.png
+Japanese spaniel 0.823225
+Pekinese, Pekingese, Peke 0.0604495
+marmoset 0.03497
+titi, titi monkey 0.0283939
+colobus, colobus monkey 0.02643
+
+Image oboe.png
+oboe, hautboy, hautbois 0.818748
+flute, transverse flute 0.0624954
+bassoon 0.0421306
+ballpoint, ballpoint pen, ballpen, Biro 0.0180024
+screw 0.01213
+
+Image pretzel.png
+bell pepper 0.573069
+combination lock 0.0343007
+beer bottle 0.0210257
+bottlecap 0.0174368
+Granny Smith 0.016192
+
+Image seashore.png
+seashore, coast, seacoast, sea-coast 0.250506
+lakeside, lakeshore 0.11209
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.102075
+dugong, Dugong dugon 0.0269079
+ant, emmet, pismire 0.0262527
+
+Image soccerball.png
+soccer ball 0.938781
+golf ball 0.0382545
+croquet ball 0.0102511
+rugby ball 0.0072174
+ping-pong ball 0.00312709
+
+Image sportscar.png
+sports car, sport car 0.762895
+racer, race car, racing car 0.125971
+convertible 0.075476
+car wheel 0.0107168
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon 0.00830828
+
+Image treefrog.png
+green lizard, Lacerta viridis 0.344251
+mantis, mantid 0.343548
+American chameleon, anole, Anolis carolinensis 0.0851949
+tree frog, tree-frog 0.039466
+vine snake 0.0214479
+
+*******************************Perturbation Images Folder****************************************
+Image pert_banana.png
+cucumber, cuke 0.474132
+zucchini, courgette 0.114871
+bell pepper 0.0460104
+bath towel 0.0358397
+banana 0.0186833
+
+Image pert_italiangreyhound.png
+Mexican hairless 0.503818
+Italian greyhound 0.200373
+Great Dane 0.0511969
+Weimaraner 0.0479203
+whippet 0.02877
+
+Image pert_japanesespaniel.png
+marmoset 0.230265
+Japanese spaniel 0.170085
+colobus, colobus monkey 0.158832
+titi, titi monkey 0.114883
+langur 0.067631
+
+Image pert_seashore.png
+skunk, polecat, wood pussy 0.0985265
+tennis ball 0.0490532
+doormat, welcome mat 0.0459433
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus 0.0294889
+green lizard, Lacerta viridis 0.0269695
+
+Image pert_sportscar.png
+whistle 0.0559107
+sports car, sport car 0.0439464
+racer, race car, racing car 0.0416724
+can opener, tin opener 0.0394437
+convertible 0.027654
+
+*********************************Other Images Folder****************************************************
+Image bowlingball.png
+ocarina, sweet potato 0.434528
+piggy bank, penny bank 0.410581
+pencil sharpener 0.0403593
+custard apple 0.0321945
+birdhouse 0.0242983
+
+Image cake.png
+head cabbage 0.175635
+cucumber, cuke 0.15783
+broccoli 0.0733058
+zucchini, courgette 0.0660731
+plate 0.0321967
+
+Image dolphin.png
+sea lion 0.116955
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus 0.11684
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca 0.115268
+dugong, Dugong dugon 0.0564366
+Indian elephant, Elephas maximus 0.0356203
+
+Image sandwich.png
+bell pepper 0.409509
+cucumber, cuke 0.20774
+broccoli 0.0521352
+zucchini, courgette 0.0503196
+head cabbage 0.0467919
+
+Image sword.png
+corkscrew, bottle screw 0.724056
+hook, claw 0.0764376
+letter opener, paper knife, paperknife 0.0383157
+can opener, tin opener 0.021549
+ladle 0.00916731

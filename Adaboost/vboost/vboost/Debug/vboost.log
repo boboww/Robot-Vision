@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  vboost.cpp
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(220): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(220): note: consider using '%llx' in the format string
+  c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(220): note: consider using '%I64x' in the format string
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(625): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(474): warning C4101: 'dummy': unreferenced local variable
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(518): warning C4101: 'sigma': unreferenced local variable
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(518): warning C4101: 'mean': unreferenced local variable
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(557): warning C4101: 'sigma': unreferenced local variable
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(557): warning C4101: 'mean': unreferenced local variable
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(1210): warning C4477: 'printf' : format string '%03d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(1248): warning C4477: 'printf' : format string '%03d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(1465): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(1467): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2152): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'double *'
+  c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2152): note: consider using '%lf' in the format string
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2330): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2334): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2335): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2337): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2343): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2350): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2449): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2510): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2510): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2596): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\bo\dropbox\school\fall 2017\cap 4453 robot vision\assigments\boyang_wu_assignment_3\adaboost\vboost\vboost\vboost.cpp(2843): warning C4129: 'i': unrecognized character escape sequence
+  LINK : C:\Users\Bo\Dropbox\School\Fall 2017\CAP 4453 Robot Vision\Assigments\Boyang_Wu_Assignment_3\AdaBoost\vboost\Debug\vboost.exe not found or not built by the last incremental link; performing full link
+  vboost.vcxproj -> C:\Users\Bo\Dropbox\School\Fall 2017\CAP 4453 Robot Vision\Assigments\Boyang_Wu_Assignment_3\AdaBoost\vboost\Debug\vboost.exe

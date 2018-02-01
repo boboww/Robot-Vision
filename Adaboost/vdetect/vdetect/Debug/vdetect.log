@@ -1,0 +1,31 @@
+﻿Build started 9/18/2014 9:43:23 AM.
+     1>Project "F:\adaboost\AdaBoost\vdetect\vdetect\vdetect.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="4.0". For more information, please see http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\vdetect.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\vdetect.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt vdetect.cpp
+         vdetect.cpp
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(435): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(424): warning C4101: 'filename' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(501): warning C4101: 'num_features' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'mean' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'var' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1738): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1739): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1764): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1769): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'inw' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ise' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'isw' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ine' : unreferenced local variable
+     1>f:\adaboost\adaboost\vdetect\vdetect\vdetect.cpp(1833): warning C4101: 'buffer' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\adaboost\AdaBoost\vdetect\Debug\vdetect.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\adaboost\AdaBoost\vdetect\Debug\vdetect.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\adaboost\AdaBoost\vdetect\Debug\vdetect.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\vdetect.obj
+         vdetect.vcxproj -> F:\adaboost\AdaBoost\vdetect\Debug\vdetect.exe
+     1>Done Building Project "F:\adaboost\AdaBoost\vdetect\vdetect\vdetect.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.61
